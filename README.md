@@ -5,7 +5,7 @@ Created by [Chunfeng Lian](https://github.com/chunfenglian/), Li Wang,
 [Tai-Hsien Wu](https://github.com/Tai-Hsien), Fan Wang,
 Pew-Thian Yap, Ching-Chang Ko, and Dinggang Shen
 
-![](meshsegnet_architecture.png)
+(Architecture figure omitted in this vendored tree; see the [IEEE TMI paper](https://ieeexplore.ieee.org/abstract/document/8984309) or upstream project.)
 
 Prequisites
 ------------
